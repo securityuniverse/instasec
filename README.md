@@ -1,4 +1,3 @@
-# Instasec An automated Mass Instagram Reporting Tool Powered by Telegram API Bot
 InstaSec is an advanced automation tool designed to streamline the process of mass reporting on Instagram using the Telegram API Bot. This innovative system leverages the efficiency of Telegram's API to provide users with a seamless experience in automating the reporting of accounts or content on Instagram.
 
 With InstaSec, users can initiate and manage mass reporting campaigns effortlessly through a Telegram Bot interface. The tool is built with user-friendliness in mind, offering intuitive commands and real-time feedback for each reporting task. It is highly customizable, allowing users to tailor reporting thresholds, set specific targets, and configure automated workflows that align with their objectives.
